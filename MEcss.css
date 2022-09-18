@@ -1,0 +1,53 @@
+body{
+	font-family: Georgia, serif;
+	background-image: url('General/back3.jpg') ;
+}
+h1{
+	left: 0px;
+	color: white;
+	background-color: #333;
+	text-align: center;
+}
+img{
+	margin-left: 2%;
+}
+p{
+	margin-left: 45%;
+}
+.first{
+	background: white;
+	margin-top: 200px;
+	height: 650px;
+	width: 100%;
+}
+h3{
+	margin-left: 40px;
+}
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  top: 0;
+}
+
+.nav {
+  float: left;
+}
+
+.nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
